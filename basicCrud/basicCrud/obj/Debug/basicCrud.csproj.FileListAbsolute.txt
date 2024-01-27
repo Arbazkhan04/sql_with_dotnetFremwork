@@ -1,0 +1,10 @@
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\bin\Debug\basicCrud.exe.config
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\bin\Debug\basicCrud.exe
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\bin\Debug\basicCrud.pdb
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.csproj.AssemblyReference.cache
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.Form1.resources
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.Properties.Resources.resources
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.csproj.GenerateResource.cache
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.csproj.CoreCompileInputs.cache
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.exe
+G:\sql_with_dotnetFremwork\basicCrud\basicCrud\obj\Debug\basicCrud.pdb
