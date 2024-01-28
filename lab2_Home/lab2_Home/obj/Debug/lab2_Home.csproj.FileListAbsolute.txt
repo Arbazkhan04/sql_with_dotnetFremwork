@@ -1,0 +1,12 @@
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\bin\Debug\lab2_Home.exe.config
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\bin\Debug\lab2_Home.exe
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\bin\Debug\lab2_Home.pdb
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.csproj.AssemblyReference.cache
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.Properties.Resources.resources
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.studentForm.resources
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.csproj.GenerateResource.cache
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.csproj.CoreCompileInputs.cache
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.exe
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.pdb
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.courseForm.resources
+G:\sql_with_dotnetFremwork\lab2_Home\lab2_Home\obj\Debug\lab2_Home.enrollmentFrom.resources
